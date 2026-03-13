@@ -43,8 +43,8 @@ src/main/java/SecureOnlineExamination/Secure_Online_Examination_System/
 2. Update the `src/main/resources/application.properties` file with your PostgreSQL credentials:
    ```properties
    spring.datasource.url=jdbc:postgresql://localhost:5432/exam_system_db
-   spring.datasource.username=your_username
-   spring.datasource.password=your_password
+   spring.datasource.username=postgres
+   spring.datasource.password=Joyeuse1303!
    ```
 
 ### Installation and Running
